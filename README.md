@@ -1,5 +1,5 @@
 Public release of **mdz_ui** is under construction...
 
-Please take a look at [announce information] about *mdz_ui* on our site.
+Please take a look at [*mdz_ui* announce information] on our site.
 
-[announce information]: https://maxdz.com/mdz_ui.html
+[*mdz_ui* announce information]: https://maxdz.com/mdz_ui.html
